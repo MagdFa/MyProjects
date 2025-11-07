@@ -1,0 +1,1 @@
+print("configuration managment is the best subject in the world")
